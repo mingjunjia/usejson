@@ -1,0 +1,21 @@
+{
+  "@type": "com.company.Jdata",
+  "name": "jmj",
+  "age": 23,
+  "email": "jmj_yc@163.com",
+  "sites": {
+    "@type": "java.util.ArrayList",
+    "@items": [
+      {
+        "@type": "com.company.Website",
+        "name": "baidu",
+        "url": "www.baidu.com"
+      },
+      {
+        "@type": "com.company.Website",
+        "name": "hand",
+        "url": "www.hand-china.com"
+      }
+    ]
+  }
+}
